@@ -1,12 +1,21 @@
-#wall .tag-1{
+body div#wall div.tag-1{
   display: none;
 }
 body #wall div#tag-2{
   display: none;
 }
-body div #wall#tag-3.slick{
+body div #wall #tag-3.slick{ 
   display: none;
 }
-#wall .parent{
-  display: none;
+body div#wall div.parent div#tag-4{
+  display:none;
+}
+body div#wall .parent #tag-5.slick{ 
+  display:none;
+}
+body div#wall div.parent div:last-child div#tag-6{ 
+  display:none;
+}
+body div#wall div.parent div div#tag-7.slick{
+  display:none;
 }
