@@ -1,21 +1,12 @@
 #wall .tag-1{
   display: none;
 }
-#wall #tag-2{
+body #wall div#tag-2{
   display: none;
 }
-#wall #tag-3 .slick .wicked{
+body div #wall#tag-3.slick{
   display: none;
 }
-#wall .parent #tag-4{
-  display: none;
-}
-#wall .parent #tag-5 .slick{
-  display: none;
-}
-#wall .parent div #tag-6{
-  display: none;
-}
-#wall .parent div #tag-7{
+#wall .parent{
   display: none;
 }
