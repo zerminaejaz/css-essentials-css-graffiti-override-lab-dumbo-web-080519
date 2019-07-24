@@ -1,7 +1,7 @@
 #wall .tag-1{
   display: none;
 }
-body #wall div#tag-2{
+#wall div#tag-2{
   display: none;
 }
 body div #wall#tag-3.slick{
